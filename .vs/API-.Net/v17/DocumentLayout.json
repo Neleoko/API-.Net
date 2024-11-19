@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\addae\\Desktop\\M1MS2D\\Valentin\\.Net\\API-.Net\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4356C4CC-604D-4096-9F58-73DAC063C0AB}|API-.Net.csproj|c:\\users\\addae\\desktop\\m1ms2d\\valentin\\.net\\api-.net\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4356C4CC-604D-4096-9F58-73DAC063C0AB}|API-.Net.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4356C4CC-604D-4096-9F58-73DAC063C0AB}|API-.Net.csproj|c:\\users\\addae\\desktop\\m1ms2d\\valentin\\.net\\api-.net\\controllers\\animecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4356C4CC-604D-4096-9F58-73DAC063C0AB}|API-.Net.csproj|solutionrelative:controllers\\animecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4356C4CC-604D-4096-9F58-73DAC063C0AB}|API-.Net.csproj|c:\\users\\addae\\desktop\\m1ms2d\\valentin\\.net\\api-.net\\entities\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4356C4CC-604D-4096-9F58-73DAC063C0AB}|API-.Net.csproj|solutionrelative:entities\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4356C4CC-604D-4096-9F58-73DAC063C0AB}|API-.Net.csproj|c:\\users\\addae\\desktop\\m1ms2d\\valentin\\.net\\api-.net\\entities\\animebddcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4356C4CC-604D-4096-9F58-73DAC063C0AB}|API-.Net.csproj|solutionrelative:entities\\animebddcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4356C4CC-604D-4096-9F58-73DAC063C0AB}|API-.Net.csproj|c:\\users\\addae\\desktop\\m1ms2d\\valentin\\.net\\api-.net\\entities\\anime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4356C4CC-604D-4096-9F58-73DAC063C0AB}|API-.Net.csproj|solutionrelative:entities\\anime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4356C4CC-604D-4096-9F58-73DAC063C0AB}|API-.Net.csproj|c:\\users\\addae\\desktop\\m1ms2d\\valentin\\.net\\api-.net\\controllers\\typecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4356C4CC-604D-4096-9F58-73DAC063C0AB}|API-.Net.csproj|solutionrelative:controllers\\typecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4356C4CC-604D-4096-9F58-73DAC063C0AB}|API-.Net.csproj|c:\\users\\addae\\desktop\\m1ms2d\\valentin\\.net\\api-.net\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{4356C4CC-604D-4096-9F58-73DAC063C0AB}|API-.Net.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4356C4CC-604D-4096-9F58-73DAC063C0AB}|API-.Net.csproj|c:\\users\\addae\\desktop\\m1ms2d\\valentin\\.net\\api-.net\\api-.net.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4356C4CC-604D-4096-9F58-73DAC063C0AB}|API-.Net.csproj|solutionrelative:api-.net.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4356C4CC-604D-4096-9F58-73DAC063C0AB}|API-.Net.csproj|c:\\users\\addae\\desktop\\m1ms2d\\valentin\\.net\\api-.net\\api-.net.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -13,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4356C4CC-604D-4096-9F58-73DAC063C0AB}|API-.Net.csproj|c:\\users\\addae\\desktop\\m1ms2d\\valentin\\.net\\api-.net\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4356C4CC-604D-4096-9F58-73DAC063C0AB}|API-.Net.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4356C4CC-604D-4096-9F58-73DAC063C0AB}|API-.Net.csproj|c:\\users\\addae\\desktop\\m1ms2d\\valentin\\.net\\api-.net\\api-.net.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4356C4CC-604D-4096-9F58-73DAC063C0AB}|API-.Net.csproj|solutionrelative:api-.net.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4356C4CC-604D-4096-9F58-73DAC063C0AB}|API-.Net.csproj|c:\\users\\addae\\desktop\\m1ms2d\\valentin\\.net\\api-.net\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -35,44 +59,114 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\addae\\Desktop\\M1MS2D\\Valentin\\.Net\\API-.Net\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\addae\\Desktop\\M1MS2D\\Valentin\\.Net\\API-.Net\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-19T10:34:45.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TypeController.cs",
+              "DocumentMoniker": "C:\\Users\\addae\\Desktop\\M1MS2D\\Valentin\\.Net\\API-.Net\\Controllers\\TypeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TypeController.cs",
+              "ToolTip": "C:\\Users\\addae\\Desktop\\M1MS2D\\Valentin\\.Net\\API-.Net\\Controllers\\TypeController.cs",
+              "RelativeToolTip": "Controllers\\TypeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:59:41.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnimeController.cs",
+              "DocumentMoniker": "C:\\Users\\addae\\Desktop\\M1MS2D\\Valentin\\.Net\\API-.Net\\Controllers\\AnimeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AnimeController.cs",
+              "ToolTip": "C:\\Users\\addae\\Desktop\\M1MS2D\\Valentin\\.Net\\API-.Net\\Controllers\\AnimeController.cs",
+              "RelativeToolTip": "Controllers\\AnimeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:59:28.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Type.cs",
+              "DocumentMoniker": "C:\\Users\\addae\\Desktop\\M1MS2D\\Valentin\\.Net\\API-.Net\\Entities\\Type.cs",
+              "RelativeDocumentMoniker": "Entities\\Type.cs",
+              "ToolTip": "C:\\Users\\addae\\Desktop\\M1MS2D\\Valentin\\.Net\\API-.Net\\Entities\\Type.cs",
+              "RelativeToolTip": "Entities\\Type.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:40:34.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Anime.cs",
+              "DocumentMoniker": "C:\\Users\\addae\\Desktop\\M1MS2D\\Valentin\\.Net\\API-.Net\\Entities\\Anime.cs",
+              "RelativeDocumentMoniker": "Entities\\Anime.cs",
+              "ToolTip": "C:\\Users\\addae\\Desktop\\M1MS2D\\Valentin\\.Net\\API-.Net\\Entities\\Anime.cs",
+              "RelativeToolTip": "Entities\\Anime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:40:11.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnimebddContext.cs",
+              "DocumentMoniker": "C:\\Users\\addae\\Desktop\\M1MS2D\\Valentin\\.Net\\API-.Net\\Entities\\AnimebddContext.cs",
+              "RelativeDocumentMoniker": "Entities\\AnimebddContext.cs",
+              "ToolTip": "C:\\Users\\addae\\Desktop\\M1MS2D\\Valentin\\.Net\\API-.Net\\Entities\\AnimebddContext.cs",
+              "RelativeToolTip": "Entities\\AnimebddContext.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:38:55.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\addae\\Desktop\\M1MS2D\\Valentin\\.Net\\API-.Net\\Dockerfile",
               "RelativeDocumentMoniker": "Dockerfile",
               "ToolTip": "C:\\Users\\addae\\Desktop\\M1MS2D\\Valentin\\.Net\\API-.Net\\Dockerfile",
               "RelativeToolTip": "Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-19T09:32:27.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T09:32:27.005Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "API-.Net",
               "DocumentMoniker": "C:\\Users\\addae\\Desktop\\M1MS2D\\Valentin\\.Net\\API-.Net\\API-.Net.csproj",
               "RelativeDocumentMoniker": "API-.Net.csproj",
               "ToolTip": "C:\\Users\\addae\\Desktop\\M1MS2D\\Valentin\\.Net\\API-.Net\\API-.Net.csproj",
               "RelativeToolTip": "API-.Net.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-19T09:21:55.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T09:21:55.413Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "API-.Net.csproj",
               "DocumentMoniker": "C:\\Users\\addae\\Desktop\\M1MS2D\\Valentin\\.Net\\API-.Net\\API-.Net.csproj",
               "RelativeDocumentMoniker": "API-.Net.csproj",
               "ToolTip": "C:\\Users\\addae\\Desktop\\M1MS2D\\Valentin\\.Net\\API-.Net\\API-.Net.csproj",
               "RelativeToolTip": "API-.Net.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAANAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswBkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-19T09:19:12.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T09:19:12.339Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\addae\\Desktop\\M1MS2D\\Valentin\\.Net\\API-.Net\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -80,12 +174,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-19T09:18:47.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T09:18:47.283Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "C:\\Users\\addae\\Desktop\\M1MS2D\\Valentin\\.Net\\API-.Net\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
@@ -93,8 +186,7 @@
               "RelativeToolTip": "docker-compose.yml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-11-19T09:03:51.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T09:03:51.409Z"
             }
           ]
         }
