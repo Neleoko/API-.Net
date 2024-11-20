@@ -60,15 +60,24 @@ namespace API_.Net.Controllers
         [HttpPost("InsertType")]
         public async Task<ActionResult<Type>> InsertType(Type type)
         {
-            animebddContext.Types.Add(type);
+            var entity = new Type()
+            {
+                Nom = type.Nom,
+            };
+            animebddContext.Types.Add(entity);
             await animebddContext.SaveChangesAsync();
-            return CreatedAtAction("GetTypeById", new { Id = type.Id }, type);
+            return entity;
         }
         
         [HttpPut("UpdateType")]
         public async Task<HttpStatusCode> UpdateType(Type type)
         {
-            animebddContext.Entry(type).State = EntityState.Modified;
+            var entity = await animebddContext.Types.FirstOrDefaultAsync(s=>s.Id == type.Id);
+            if (entity == null)
+            {
+                return HttpStatusCode.NotFound;
+            }
+            entity.Nom = type.Nom;
             await animebddContext.SaveChangesAsync();
             return HttpStatusCode.OK;
         }
@@ -76,12 +85,12 @@ namespace API_.Net.Controllers
         [HttpDelete("DeleteType")]
         public async Task<HttpStatusCode> DeleteType(int Id)
         {
-            var type = await animebddContext.Types.FindAsync(Id);
-            if (type == null)
+            var entity = await animebddContext.Types.FindAsync(Id);
+            if (entity == null)
             {
                 return HttpStatusCode.NotFound;
             }
-            animebddContext.Types.Remove(type);
+            animebddContext.Types.Remove(entity);
             await animebddContext.SaveChangesAsync();
             return HttpStatusCode.OK;
         }
